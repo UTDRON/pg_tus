@@ -1,2 +1,2 @@
-# cse662_fa24_t4
-top-k unionable table search
+CSE 662 "Languages and Databases" Project at UB; Term Fall 2024
+pg_tus: is an extension in postgres that performs top-k table union search
